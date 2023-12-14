@@ -7,7 +7,7 @@ This repository contains the prototype design for the Choisis application, a rec
 
 ## Figma Prototype File
 
-- `Choisis_Application_Prototype.fig`
+- `Choisis_Application_Prototype.pdf`
 
 ## Choisis Application Description
 
