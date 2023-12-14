@@ -34,6 +34,8 @@ This project is a prototype created for demonstration and practice purposes. It 
 ## Figma Links
 - File : https://www.figma.com/file/qifuww5jsOEsUHUPoobIjA/Choisis?type=design&node-id=1-1220&mode=design&t=EvUi3FUwtlBRnE1n-0
 - Prototype : https://www.figma.com/proto/qifuww5jsOEsUHUPoobIjA/Choisis?type=design&node-id=1-1220&t=EvUi3FUwtlBRnE1n-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1437&show-proto-sidebar=1
+
+  
 Feel free to contribute or raise issues for improvements!
 
 
